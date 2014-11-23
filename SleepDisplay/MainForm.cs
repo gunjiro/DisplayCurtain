@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SleepDisplay
+namespace DisplayCurtain
 {
     public partial class MainForm : Form
     {

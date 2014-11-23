@@ -1,4 +1,4 @@
-﻿namespace SleepDisplay
+﻿namespace DisplayCurtain
 {
     partial class MainForm
     {
