@@ -1,4 +1,4 @@
-﻿namespace SleepDisplay
+﻿namespace DisplayCurtain
 {
     partial class MainForm
     {
@@ -57,8 +57,10 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 82);
+            this.ControlBox = false;
             this.Controls.Add(this.timeRemainLabel);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Name = "MainForm";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
