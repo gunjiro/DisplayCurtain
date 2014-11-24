@@ -40,7 +40,7 @@ namespace DisplayCurtain
 
         private void UpdateTimeRemainLabel(int second)
         {
-            timeRemainLabel.Text = String.Format("残り{0}秒", second);
+            timeRemainLabel.Text = String.Format("残り {0} 秒", second);
         }
     }
 }
