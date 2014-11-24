@@ -35,7 +35,7 @@
             // 
             this.timeRemainLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.timeRemainLabel.Font = new System.Drawing.Font("MS UI Gothic", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.timeRemainLabel.Font = new System.Drawing.Font("MS UI Gothic", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
             this.timeRemainLabel.Location = new System.Drawing.Point(12, 14);
             this.timeRemainLabel.Name = "timeRemainLabel";
             this.timeRemainLabel.Size = new System.Drawing.Size(160, 14);
